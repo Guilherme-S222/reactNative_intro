@@ -1,7 +1,7 @@
 import { View, Text } from 'react-native';
 
 // importa arquivo de estilização
-import styles from './styles';
+import styles from './exemplosStyles';
 
 // definição das funções dos componentes
 function Index() {
