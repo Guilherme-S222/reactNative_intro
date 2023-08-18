@@ -8,7 +8,7 @@ function Index() {
     return (
         <View style={styles.container}>
             <Text style={styles.texto} >
-                Exemplos...
+                Atividades...
             </Text>
         </View>
     );

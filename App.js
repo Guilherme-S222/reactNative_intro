@@ -12,11 +12,11 @@ const corApp = '#fff';
 
 export default function App() {
   return (
-
-    <View style={styles.container}>
-      <Drawer />
-      <StatusBar style={corApp==='#000' ? 'light' : 'dark'} />
-    </View>
+    //<View style={styles.container}>
+      //<Drawer />
+      //<StatusBar style={corApp==='#000' ? 'light' : 'dark'} />
+    //</View>
+    <Drawer />  
   );
 }
 
